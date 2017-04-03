@@ -4,7 +4,7 @@ title: "About"
 description: "优秀不够，你是否无可替代 "
 header-img: "img/green.jpg"
 ---
-
+favicon: img/favicon.png
 
 感谢这段经历，让我成为现在的我。
 
