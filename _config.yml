@@ -8,20 +8,20 @@ url: "http://laxsen.github.io"
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " laxsen"
+  email: laxsen@163.com
+  bio: "解忧杂货铺"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  
+twitter_username: 
+github_username: 
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username:  
+zhihu_username:
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -42,7 +42,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "laxsen"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
